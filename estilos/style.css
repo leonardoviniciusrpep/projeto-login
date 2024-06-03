@@ -166,7 +166,7 @@ form > a.esqueci:hover {
 }
 
 p#meuface {
-    margin: 5px;
+    padding-top: 5px;
     font-size: 0.8em;
     text-align: center;
 }
